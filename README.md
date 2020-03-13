@@ -1,2 +1,3 @@
-# Machine-Learning-
-Machine Learning Concepts
+# Machine Learning 
+1. Machine Learning Concepts - TOC
+
