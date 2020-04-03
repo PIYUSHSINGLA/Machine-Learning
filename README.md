@@ -41,7 +41,7 @@
 |                                                            | i. Unimodal and Bimodal Histograms                                                       |
 |                                                            | j. Heat map                                                                              |
 | Probability                                                |                                                                                          |
-| 8                                                          | What is Bayesian Statistics?                                                             |
+| 8                                                          | What is Statistics?                                                             |
 | 9                                                          | Population and Sample                                                                    |
 | 10                                                         | Random Variable                                                                          |
 | 11                                                         | Probability (Joint, Marginal and Conditional probabilities)                              |
